@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>UQCS Degree Form</title>
+        <link rel="stylesheet" href="https://unpkg.com/awesomplete@1.1.5/awesomplete.css">
+        <script src="https://unpkg.com/awesomplete@1.1.5/awesomplete.js"></script>
+
+        <style>
+        body {
+            font-family: sans-serif
+        }
+        </style>
+    </head>
+    <body>
+        <p>
+            <label for="program">Program</label>
+            <input id="program" type="text">
+        </p>
+        
+        <p>
+            <label for="major">Major</label>
+            <input id="major" type="text">
+        </p>
+
+        <p id="display" style="display: none;">
+            You have selected a Bachelor of <span id="program-display"></span>, 
+            majoring in <span id="major-display"></span>.
+        </p>
+
+        <script src="form.js"></script>
+    </body>
+</html>
