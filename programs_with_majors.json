@@ -1,0 +1,3045 @@
+{
+  "undergrad": {
+    "Bachelor of Advanced Business (Honours)": [
+      "Accounting",
+      "Business Analytics",
+      "Business Information Systems",
+      "Finance",
+      "Human Resources",
+      "Innovation and Entrepreneurship",
+      "International Business",
+      "Marketing"
+    ],
+    "Bachelor of Advanced Finance and Economics (Honours)": [
+      "Economics",
+      "Finance"
+    ],
+    "Bachelor of Advanced Humanities (Honours)": [
+      "Ancient History",
+      "Art History",
+      "Drama",
+      "English Literature",
+      "History",
+      "Mathematics",
+      "Music",
+      "Philosophy",
+      "Studies in Religion",
+      "Western Civilisation"
+    ],
+    "Bachelor of Advanced Science (Honours)": [
+      "Aboriginal and Torres Strait Islander Studies",
+      "Ancient Greek",
+      "Ancient History",
+      "Ancient History/History",
+      "Anthropology",
+      "Applied Mathematics",
+      "Archaeological Science",
+      "Art History",
+      "Astrophysics",
+      "Australian Studies",
+      "Biochemistry and Molecular Biology",
+      "Bioinformatics",
+      "Biomedical Science",
+      "Biophysics",
+      "Cell Biology",
+      "Chemical Biology",
+      "Chemistry",
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "Coastal and Ocean Science",
+      "Computational Science",
+      "Computer Science",
+      "Criminology",
+      "Data Science",
+      "Design",
+      "Developmental Biology",
+      "Drama",
+      "Earth Science",
+      "Ecology and Conservation Biology",
+      "Economics",
+      "English",
+      "English Literature",
+      "English as an International Language",
+      "Entomology",
+      "Film and Television Studies",
+      "Food Science and Nutrition",
+      "Food Technology",
+      "French",
+      "French Advanced",
+      "Gender Studies",
+      "Genetics",
+      "Geographical Information Science",
+      "Geographical Science",
+      "German",
+      "History",
+      "Human Anatomy",
+      "Human Physiology",
+      "Immunology",
+      "Indonesian",
+      "International Relations",
+      "Japanese",
+      "Japanese Advanced",
+      "Journalism and Mass Communication",
+      "Korean",
+      "Latin",
+      "Legal Education Studies",
+      "Linguistics",
+      "Marine Biology",
+      "Mathematics",
+      "Media and Digital Cultures",
+      "Microbiology",
+      "Music",
+      "Music Psychology",
+      "Neuroscience",
+      "Peace and Conflict Studies",
+      "Pharmacology",
+      "Philosophy",
+      "Physics",
+      "Plant Science",
+      "Political Science",
+      "Popular Music and Technology",
+      "Population and Place",
+      "Professional Writing and Communication",
+      "Psychology",
+      "Public Health",
+      "Russian",
+      "Sociology",
+      "Spanish",
+      "Sports Studies",
+      "Statistics",
+      "Studies in Religion",
+      "Writing",
+      "Zoology"
+    ],
+    "Bachelor of Agribusiness": [
+      "Agribusiness"
+    ],
+    "Bachelors of Agribusiness / Agricultural Science": [
+      "Agronomy",
+      "Animal Science",
+      "Horticulture"
+    ],
+    "Bachelors of Agribusiness / Equine Science": [
+      "Agribusiness / Equine Science"
+    ],
+    "Bachelors of Agribusiness / Wildlife Science": [
+      "Agribusiness / Wildlife Science"
+    ],
+    "Bachelor of Agricultural Science": [
+      "Agronomy",
+      "Animal Science",
+      "Horticulture"
+    ],
+    "Bachelor of Agricultural Science (Honours)": [
+      "Agricultural Science (Honours)"
+    ],
+    "Bachelor of Architectural Design": [
+      "Architectural Design"
+    ],
+    "Bachelor of Arts": [
+      "Aboriginal and Torres Strait Islander Studies",
+      "Ancient Greek",
+      "Ancient History",
+      "Ancient History/History",
+      "Anthropology",
+      "Archaeology",
+      "Art History",
+      "Australian Studies",
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "Criminology",
+      "Drama",
+      "Economics",
+      "English",
+      "English Literature",
+      "English as an International Language",
+      "Film and Television Studies",
+      "French",
+      "French Advanced",
+      "Gender Studies",
+      "Geography",
+      "German",
+      "History",
+      "Indonesian",
+      "International Relations",
+      "Japanese",
+      "Japanese Advanced",
+      "Journalism and Mass Communication",
+      "Korean",
+      "Latin",
+      "Legal Education Studies",
+      "Linguistics",
+      "Mathematics",
+      "Media and Digital Cultures",
+      "Music",
+      "Music Psychology",
+      "Peace and Conflict Studies",
+      "Philosophy",
+      "Political Science",
+      "Popular Music and Technology",
+      "Professional Writing and Communication",
+      "Psychology",
+      "Russian",
+      "Sociology",
+      "Spanish",
+      "Sports Studies",
+      "Studies in Religion",
+      "Writing"
+    ],
+    "Diploma of Arts": [
+      "Aboriginal and Torres Strait Islander Studies",
+      "Ancient Greek",
+      "Ancient History",
+      "Ancient History/History",
+      "Anthropology",
+      "Archaeology",
+      "Art History",
+      "Australian Studies",
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "Criminology",
+      "Drama",
+      "Economics",
+      "English",
+      "English Literature",
+      "English as an International Language",
+      "Film and Television Studies",
+      "French",
+      "French Advanced",
+      "Gender Studies",
+      "Geography",
+      "German",
+      "History",
+      "Indonesian",
+      "International Relations",
+      "Japanese",
+      "Japanese Advanced",
+      "Journalism and Mass Communication",
+      "Korean",
+      "Latin",
+      "Legal Education Studies",
+      "Linguistics",
+      "Mathematics",
+      "Media and Digital Cultures",
+      "Music",
+      "Music Psychology",
+      "Peace and Conflict Studies",
+      "Philosophy",
+      "Political Science",
+      "Popular Music and Technology",
+      "Professional Writing and Communication",
+      "Psychology",
+      "Russian",
+      "Sociology",
+      "Spanish",
+      "Sports Studies",
+      "Studies in Religion",
+      "Writing"
+    ],
+    "Bachelor of Arts (Honours)": [
+      "Ancient History",
+      "Anthropology",
+      "Archaeology",
+      "Art History",
+      "Chinese",
+      "Classical Languages",
+      "Communication and Cultural Studies",
+      "Criminology",
+      "Drama",
+      "Economics",
+      "English Literature",
+      "French",
+      "Geography",
+      "German",
+      "History",
+      "Indonesian",
+      "International Relations",
+      "Japanese",
+      "Journalism and Mass Communication",
+      "Korean",
+      "Linguistics",
+      "Mathematics",
+      "Music",
+      "Peace and Conflict Studies",
+      "Philosophy",
+      "Political Science",
+      "Psychology",
+      "Public Policy",
+      "Russian",
+      "Sociology",
+      "Spanish",
+      "Sports Studies",
+      "Studies in Religion"
+    ],
+    "Bachelors of Arts / Education (Secondary)": [
+      "Ancient History/History",
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "Drama",
+      "Economics",
+      "English",
+      "Film and Television Studies",
+      "French",
+      "French Advanced",
+      "Geography",
+      "German",
+      "Japanese",
+      "Japanese Advanced",
+      "Legal Education Studies",
+      "Mathematics",
+      "Media and Digital Cultures",
+      "Music",
+      "Popular Music and Technology",
+      "Psychology",
+      "Spanish"
+    ],
+    "Bachelors of Arts / Laws (Honours)": [
+      "Aboriginal and Torres Strait Islander Studies",
+      "Ancient Greek",
+      "Ancient History",
+      "Ancient History/History",
+      "Anthropology",
+      "Archaeology",
+      "Art History",
+      "Australian Studies",
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "Criminology",
+      "Drama",
+      "Economics",
+      "English",
+      "English Literature",
+      "English as an International Language",
+      "Film and Television Studies",
+      "French",
+      "French Advanced",
+      "Gender Studies",
+      "Geography",
+      "German",
+      "History",
+      "Indonesian",
+      "International Relations",
+      "Japanese",
+      "Japanese Advanced",
+      "Journalism and Mass Communication",
+      "Korean",
+      "Latin",
+      "Legal Education Studies",
+      "Linguistics",
+      "Mathematics",
+      "Media and Digital Cultures",
+      "Music",
+      "Music Psychology",
+      "Peace and Conflict Studies",
+      "Philosophy",
+      "Political Science",
+      "Popular Music and Technology",
+      "Professional Writing and Communication",
+      "Psychology",
+      "Sociology",
+      "Spanish",
+      "Sports Studies",
+      "Studies in Religion",
+      "Writing"
+    ],
+    "Bachelors of Arts / Social Science": [
+      "Aboriginal and Torres Strait Islander Studies",
+      "Ancient Greek",
+      "Ancient History",
+      "Ancient History/History",
+      "Anthropology",
+      "Archaeology",
+      "Art History",
+      "Australian Studies",
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "Criminology",
+      "Development",
+      "Drama",
+      "Economics",
+      "English",
+      "English Literature",
+      "English as an International Language",
+      "Environment and Society",
+      "Film and Television Studies",
+      "French",
+      "French Advanced",
+      "Gender Studies",
+      "Geography",
+      "German",
+      "Health and Social Policy",
+      "History",
+      "Indonesian",
+      "International Relations",
+      "Japanese",
+      "Japanese Advanced",
+      "Journalism and Mass Communication",
+      "Korean",
+      "Latin",
+      "Legal Education Studies",
+      "Linguistics",
+      "Mathematics",
+      "Media and Digital Cultures",
+      "Music",
+      "Music Psychology",
+      "Peace and Conflict Studies",
+      "Philosophy",
+      "Political Science",
+      "Popular Music and Technology",
+      "Professional Writing and Communication",
+      "Psychology",
+      "Sociology",
+      "Spanish",
+      "Sports Studies",
+      "Studies in Religion",
+      "Writing"
+    ],
+    "Bachelors of Arts / Tourism, Hospitality and Event Management": [
+      "Aboriginal and Torres Strait Islander Studies",
+      "Ancient Greek",
+      "Ancient History",
+      "Ancient History/History",
+      "Anthropology",
+      "Archaeology",
+      "Art History",
+      "Australian Studies",
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "Criminology",
+      "Drama",
+      "Economics",
+      "English",
+      "English Literature",
+      "English as an International Language",
+      "Film and Television Studies",
+      "French",
+      "French Advanced",
+      "Gender Studies",
+      "Geography",
+      "German",
+      "History",
+      "Hotel and Hospitality Management",
+      "Indonesian",
+      "International Relations",
+      "Japanese",
+      "Japanese Advanced",
+      "Journalism and Mass Communication",
+      "Korean",
+      "Latin",
+      "Legal Education Studies",
+      "Linguistics",
+      "Mathematics",
+      "Media and Digital Cultures",
+      "Music",
+      "Music Psychology",
+      "Peace and Conflict Studies",
+      "Philosophy",
+      "Political Science",
+      "Popular Music and Technology",
+      "Professional Writing and Communication",
+      "Psychology",
+      "Sociology",
+      "Spanish",
+      "Sports Studies",
+      "Studies in Religion",
+      "Tourism and Event Management",
+      "Writing"
+    ],
+    "Bachelor of Biomedical Science": [
+      "Biomedical Science"
+    ],
+    "Bachelor of Biomedical Science (Honours)": [
+      "Biomedical Science (Honours)"
+    ],
+    "Bachelors of Biomedical Science / Science": [
+      "Applied Mathematics",
+      "Archaeological Science",
+      "Astrophysics",
+      "Biochemistry and Molecular Biology",
+      "Bioinformatics",
+      "Biophysics",
+      "Cell Biology",
+      "Chemical Biology",
+      "Chemistry",
+      "Coastal and Ocean Science",
+      "Computational Science",
+      "Computer Science",
+      "Developmental Biology",
+      "Earth Science",
+      "Ecology and Conservation Biology",
+      "Entomology",
+      "Food Science and Nutrition",
+      "Food Technology",
+      "Genetics",
+      "Geographical Information Science",
+      "Geographical Science",
+      "Human Anatomy",
+      "Human Physiology",
+      "Immunology",
+      "Marine Biology",
+      "Mathematics",
+      "Microbiology",
+      "Microbiology, Infection and Immunity",
+      "Neuroscience",
+      "Pharmacology",
+      "Physics",
+      "Plant Science",
+      "Psychology",
+      "Public Health",
+      "Statistics",
+      "Zoology"
+    ],
+    "Bachelor of Biotechnology": [
+      "Agricultural Biotechnology",
+      "Bioinformatics",
+      "Chemical and Nano Biotechnology",
+      "Innovation and Entrepreneurship",
+      "Medical Biotechnology",
+      "Molecular and Microbial Biotechnology",
+      "Synthetic Biology and Industrial Biotechnology"
+    ],
+    "Bachelor of Biotechnology (Honours)": [
+      "Agricultural Biotechnology",
+      "Chemical and Nano Biotechnology",
+      "Medical Biotechnology",
+      "Molecular and Microbial Biotechnology",
+      "Synthetic Biology and Industrial Biotechnology"
+    ],
+    "Bachelor of Business Management": [
+      "Business Economics",
+      "Business Information Systems",
+      "Human Resources",
+      "Innovation and Entrepreneurship",
+      "International Business",
+      "Leadership and Management Science",
+      "Marketing"
+    ],
+    "Bachelor of Business Management (Honours)": [
+      "Business Management (Honours)"
+    ],
+    "Bachelors of Business Management / Arts": [
+      "Aboriginal and Torres Strait Islander Studies",
+      "Ancient Greek",
+      "Ancient History",
+      "Ancient History/History",
+      "Anthropology",
+      "Archaeology",
+      "Art History",
+      "Australian Studies",
+      "Business Economics",
+      "Business Information Systems",
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "Criminology",
+      "Drama",
+      "Economics",
+      "English",
+      "English Literature",
+      "English as an International Language",
+      "Film and Television Studies",
+      "French",
+      "French Advanced",
+      "Gender Studies",
+      "Geography",
+      "German",
+      "History",
+      "Human Resources",
+      "Indonesian",
+      "Innovation and Entrepreneurship",
+      "International Business",
+      "International Relations",
+      "Japanese",
+      "Japanese Advanced",
+      "Journalism and Mass Communication",
+      "Korean",
+      "Latin",
+      "Leadership and Management Science",
+      "Legal Education Studies",
+      "Linguistics",
+      "Marketing",
+      "Mathematics",
+      "Media and Digital Cultures",
+      "Music",
+      "Music Psychology",
+      "Peace and Conflict Studies",
+      "Philosophy",
+      "Political Science",
+      "Popular Music and Technology",
+      "Professional Writing and Communication",
+      "Psychology",
+      "Sociology",
+      "Spanish",
+      "Sports Studies",
+      "Studies in Religion",
+      "Writing"
+    ],
+    "Bachelors of Business Management / Commerce": [
+      "Accounting",
+      "Business Analytics",
+      "Business Economics",
+      "Business Information Systems",
+      "Finance",
+      "Human Resources",
+      "Innovation and Entrepreneurship",
+      "International Business",
+      "Leadership and Management Science",
+      "Marketing"
+    ],
+    "Bachelors of Business Management / Communication": [
+      "Business Economics",
+      "Business Information Systems",
+      "Digital Media",
+      "Human Resources",
+      "Innovation and Entrepreneurship",
+      "International Business",
+      "Leadership and Management Science",
+      "Marketing",
+      "Public Relations"
+    ],
+    "Bachelors of Business Management / Design": [
+      "Anthropology",
+      "Buildings and Environments",
+      "Business Economics",
+      "Business Information Systems",
+      "Environment and Society",
+      "Human Resources",
+      "Information Environments",
+      "Innovation and Entrepreneurship",
+      "International Business",
+      "Leadership and Management Science",
+      "Marketing",
+      "Media and Digital Cultures"
+    ],
+    "Bachelors of Business Management / Economics": [
+      "Business Information Systems",
+      "Economics and Public Policy",
+      "Economics of Strategy and Behaviour",
+      "Human Resources",
+      "Innovation and Entrepreneurship",
+      "International Business",
+      "International and Financial Economics",
+      "Leadership and Management Science",
+      "Marketing",
+      "Quantitative Analysis"
+    ],
+    "Bachelors of Business Management / Education (Secondary)": [
+      "Business Economics"
+    ],
+    "Bachelors of Business Management / Information Technology": [
+      "Business Economics",
+      "Business Information Systems",
+      "Human Resources",
+      "Innovation and Entrepreneurship",
+      "International Business",
+      "Leadership and Management Science",
+      "Marketing",
+      "Software Design",
+      "Software Information Systems",
+      "User Experience Design"
+    ],
+    "Bachelors of Business Management / Journalism": [
+      "Business Economics",
+      "Business Information Systems",
+      "Human Resources",
+      "Innovation and Entrepreneurship",
+      "International Business",
+      "Leadership and Management Science",
+      "Marketing"
+    ],
+    "Bachelors of Business Management / Laws (Honours)": [
+      "Business Economics",
+      "Business Information Systems",
+      "Human Resources",
+      "Innovation and Entrepreneurship",
+      "International Business",
+      "Leadership and Management Science",
+      "Marketing"
+    ],
+    "Bachelors of Business Management / Science": [
+      "Applied Mathematics",
+      "Archaeological Science",
+      "Astrophysics",
+      "Biochemistry and Molecular Biology",
+      "Bioinformatics",
+      "Biomedical Science",
+      "Biophysics",
+      "Business Economics",
+      "Business Information Systems",
+      "Cell Biology",
+      "Chemical Biology",
+      "Chemistry",
+      "Coastal and Ocean Science",
+      "Computational Science",
+      "Computer Science",
+      "Developmental Biology",
+      "Earth Science",
+      "Ecology and Conservation Biology",
+      "Entomology",
+      "Food Science and Nutrition",
+      "Food Technology",
+      "Genetics",
+      "Geographical Information Science",
+      "Geographical Science",
+      "Human Anatomy",
+      "Human Physiology",
+      "Human Resources",
+      "Immunology",
+      "Innovation and Entrepreneurship",
+      "International Business",
+      "Leadership and Management Science",
+      "Marine Biology",
+      "Marketing",
+      "Mathematics",
+      "Microbiology",
+      "Microbiology, Infection and Immunity",
+      "Neuroscience",
+      "Pharmacology",
+      "Physics",
+      "Plant Science",
+      "Psychology",
+      "Public Health",
+      "Statistics",
+      "Zoology"
+    ],
+    "Bachelors of Business Management / Tourism, Hospitality and Event Management": [
+      "Business Economics",
+      "Business Information Systems",
+      "Hospitality Management",
+      "Human Resources",
+      "Innovation and Entrepreneurship",
+      "International Business",
+      "Leadership and Management Science",
+      "Marketing",
+      "Tourism and Event Management"
+    ],
+    "Bachelor of Clinical Exercise Physiology (Honours)": [
+      "Clinical Exercise Physiology (Honours)"
+    ],
+    "Bachelor of Commerce": [
+      "Accounting",
+      "Business Analytics",
+      "Business Information Systems",
+      "Finance"
+    ],
+    "Bachelor of Commerce (Honours)": [
+      "Commerce (Honours)"
+    ],
+    "Bachelors of Commerce / Arts": [
+      "Aboriginal and Torres Strait Islander Studies",
+      "Accounting",
+      "Ancient Greek",
+      "Ancient History",
+      "Ancient History/History",
+      "Anthropology",
+      "Archaeology",
+      "Art History",
+      "Australian Studies",
+      "Business Analytics",
+      "Business Information Systems",
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "Criminology",
+      "Drama",
+      "Economics",
+      "English",
+      "English Literature",
+      "English as an International Language",
+      "Film and Television Studies",
+      "Finance",
+      "French",
+      "French Advanced",
+      "Gender Studies",
+      "Geography",
+      "German",
+      "History",
+      "Indonesian",
+      "International Relations",
+      "Japanese",
+      "Japanese Advanced",
+      "Journalism and Mass Communication",
+      "Korean",
+      "Latin",
+      "Legal Education Studies",
+      "Linguistics",
+      "Mathematics",
+      "Media and Digital Cultures",
+      "Music",
+      "Music Psychology",
+      "Peace and Conflict Studies",
+      "Philosophy",
+      "Political Science",
+      "Popular Music and Technology",
+      "Professional Writing and Communication",
+      "Psychology",
+      "Sociology",
+      "Spanish",
+      "Sports Studies",
+      "Studies in Religion",
+      "Writing"
+    ],
+    "Bachelors of Commerce / Economics": [
+      "Accounting",
+      "Business Analytics",
+      "Business Information Systems",
+      "Economics and Public Policy",
+      "Economics of Strategy and Behaviour",
+      "Finance",
+      "International and Financial Economics",
+      "Quantitative Analysis"
+    ],
+    "Bachelors of Commerce / Information Technology": [
+      "Accounting",
+      "Business Analytics",
+      "Business Information Systems",
+      "Finance",
+      "Software Design",
+      "Software Information Systems",
+      "User Experience Design"
+    ],
+    "Bachelors of Commerce / Laws (Honours)": [
+      "Accounting",
+      "Business Analytics",
+      "Business Information Systems",
+      "Finance"
+    ],
+    "Bachelors of Commerce / Science": [
+      "Accounting",
+      "Applied Mathematics",
+      "Archaeological Science",
+      "Astrophysics",
+      "Biochemistry and Molecular Biology",
+      "Bioinformatics",
+      "Biomedical Science",
+      "Biophysics",
+      "Business Analytics",
+      "Business Information Systems",
+      "Cell Biology",
+      "Chemical Biology",
+      "Chemistry",
+      "Coastal and Ocean Science",
+      "Computational Science",
+      "Computer Science",
+      "Developmental Biology",
+      "Earth Science",
+      "Ecology and Conservation Biology",
+      "Entomology",
+      "Finance",
+      "Food Science and Nutrition",
+      "Food Technology",
+      "Genetics",
+      "Geographical Information Science",
+      "Geographical Science",
+      "Human Anatomy",
+      "Human Physiology",
+      "Immunology",
+      "Marine Biology",
+      "Mathematics",
+      "Microbiology",
+      "Microbiology, Infection and Immunity",
+      "Neuroscience",
+      "Pharmacology",
+      "Physics",
+      "Plant Science",
+      "Psychology",
+      "Public Health",
+      "Statistics",
+      "Zoology"
+    ],
+    "Bachelor of Communication": [
+      "Digital Media",
+      "Public Relations"
+    ],
+    "Bachelor of Communication (Honours)": [
+      "Communication (Honours)"
+    ],
+    "Bachelors of Communication / Arts": [
+      "Aboriginal and Torres Strait Islander Studies",
+      "Ancient Greek",
+      "Ancient History",
+      "Ancient History/History",
+      "Anthropology",
+      "Archaeology",
+      "Art History",
+      "Australian Studies",
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "Criminology",
+      "Digital Media",
+      "Drama",
+      "Economics",
+      "English",
+      "English Literature",
+      "English as an International Language",
+      "Film and Television Studies",
+      "French",
+      "French Advanced",
+      "Gender Studies",
+      "Geography",
+      "German",
+      "History",
+      "Indonesian",
+      "International Relations",
+      "Japanese",
+      "Japanese Advanced",
+      "Journalism and Mass Communication",
+      "Korean",
+      "Latin",
+      "Legal Education Studies",
+      "Linguistics",
+      "Mathematics",
+      "Music",
+      "Music Psychology",
+      "Peace and Conflict Studies",
+      "Philosophy",
+      "Political Science",
+      "Popular Music and Technology",
+      "Professional Writing and Communication",
+      "Psychology",
+      "Public Relations",
+      "Russian",
+      "Sociology",
+      "Spanish",
+      "Sports Studies",
+      "Studies in Religion",
+      "Writing"
+    ],
+    "Bachelors of Communication / Journalism": [
+      "Digital Media",
+      "Public Relations"
+    ],
+    "Bachelor of Computer Science": [
+      "Cyber Security",
+      "Data Science",
+      "Machine Learning",
+      "Programming Languages",
+      "Scientific Computing"
+    ],
+    "Bachelor of Computer Science (Honours)": [
+      "Computer Science (Honours)"
+    ],
+    "Bachelors of Computer Science / Arts": [
+      "Aboriginal and Torres Strait Islander Studies",
+      "Ancient Greek",
+      "Ancient History",
+      "Ancient History/History",
+      "Anthropology",
+      "Archaeology",
+      "Art History",
+      "Australian Studies",
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "Criminology",
+      "Cyber Security",
+      "Data Science",
+      "Drama",
+      "Economics",
+      "English",
+      "English Literature",
+      "English as an International Language",
+      "Film and Television Studies",
+      "French",
+      "French Advanced",
+      "Gender Studies",
+      "Geography",
+      "German",
+      "History",
+      "Indonesian",
+      "International Relations",
+      "Japanese",
+      "Japanese Advanced",
+      "Journalism and Mass Communication",
+      "Korean",
+      "Latin",
+      "Legal Education Studies",
+      "Linguistics",
+      "Machine Learning",
+      "Mathematics",
+      "Media and Digital Cultures",
+      "Music",
+      "Music Psychology",
+      "Peace and Conflict Studies",
+      "Philosophy",
+      "Political Science",
+      "Popular Music and Technology",
+      "Professional Writing and Communication",
+      "Programming Languages",
+      "Psychology",
+      "Scientific Computing",
+      "Sociology",
+      "Spanish",
+      "Sports Studies",
+      "Studies in Religion",
+      "Writing"
+    ],
+    "Bachelors of Computer Science / Business Management": [
+      "Business Economics",
+      "Business Information Systems",
+      "Cyber Security",
+      "Data Science",
+      "Human Resources",
+      "Innovation and Entrepreneurship",
+      "International Business",
+      "Leadership and Management Science",
+      "Machine Learning",
+      "Marketing",
+      "Programming Languages",
+      "Scientific Computing"
+    ],
+    "Bachelors of Computer Science / Commerce": [
+      "Accounting",
+      "Business Analytics",
+      "Business Information Systems",
+      "Cyber Security",
+      "Data Science",
+      "Finance",
+      "Machine Learning",
+      "Programming Languages",
+      "Scientific Computing"
+    ],
+    "Bachelors of Computer Science / Cyber Security": [
+      "Cryptography",
+      "Cyber Defence",
+      "Cyber Security",
+      "Data Science",
+      "Machine Learning",
+      "Programming Languages",
+      "Scientific Computing"
+    ],
+    "Bachelors of Computer Science / Data Science": [
+      "Cyber Security",
+      "Data Science",
+      "Machine Learning",
+      "Programming Languages",
+      "Scientific Computing"
+    ],
+    "Bachelors of Computer Science / Laws (Honours)": [
+      "Cyber Security",
+      "Data Science",
+      "Machine Learning",
+      "Programming Languages",
+      "Scientific Computing"
+    ],
+    "Bachelors of Computer Science / Science": [
+      "Applied Mathematics",
+      "Archaeological Science",
+      "Astrophysics",
+      "Biochemistry and Molecular Biology",
+      "Bioinformatics",
+      "Biomedical Science",
+      "Biophysics",
+      "Cell Biology",
+      "Chemical Biology",
+      "Chemistry",
+      "Coastal and Ocean Science",
+      "Computational Science",
+      "Cyber Security",
+      "Data Science",
+      "Developmental Biology",
+      "Earth Science",
+      "Ecology and Conservation Biology",
+      "Entomology",
+      "Food Science and Nutrition",
+      "Food Technology",
+      "Genetics",
+      "Geographical Information Science",
+      "Geographical Science",
+      "Human Anatomy",
+      "Human Physiology",
+      "Immunology",
+      "Machine Learning",
+      "Marine Biology",
+      "Mathematics",
+      "Microbiology",
+      "Microbiology, Infection and Immunity",
+      "Neuroscience",
+      "Pharmacology",
+      "Physics",
+      "Plant Science",
+      "Programming Languages",
+      "Psychology",
+      "Public Health",
+      "Scientific Computing",
+      "Statistics",
+      "Zoology"
+    ],
+    "Bachelor of Criminology and Criminal Justice (Honours)": [
+      "Criminology and Criminal Justice (Honours)"
+    ],
+    "Bachelor of Dental Science (Honours)": [
+      "Dental Science (Honours)"
+    ],
+    "Bachelor of Design": [
+      "Anthropology",
+      "Buildings and Environments",
+      "Environment and Society",
+      "Information Environments",
+      "Innovation and Entrepreneurship",
+      "Media and Digital Cultures"
+    ],
+    "Bachelor of Economics": [
+      "Economics and Public Policy",
+      "Economics of Strategy and Behaviour",
+      "International and Financial Economics",
+      "Quantitative Analysis"
+    ],
+    "Bachelor of Economics (Honours)": [
+      "Econometrics",
+      "Economics"
+    ],
+    "Bachelors of Economics / Arts": [
+      "Aboriginal and Torres Strait Islander Studies",
+      "Ancient Greek",
+      "Ancient History",
+      "Ancient History/History",
+      "Anthropology",
+      "Archaeology",
+      "Art History",
+      "Australian Studies",
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "Criminology",
+      "Drama",
+      "Economics",
+      "Economics and Public Policy",
+      "Economics of Strategy and Behaviour",
+      "English",
+      "English Literature",
+      "English as an International Language",
+      "Film and Television Studies",
+      "French",
+      "French Advanced",
+      "Gender Studies",
+      "Geography",
+      "German",
+      "History",
+      "Indonesian",
+      "International Relations",
+      "International and Financial Economics",
+      "Japanese",
+      "Japanese Advanced",
+      "Journalism and Mass Communication",
+      "Korean",
+      "Latin",
+      "Legal Education Studies",
+      "Linguistics",
+      "Mathematics",
+      "Media and Digital Cultures",
+      "Music",
+      "Music Psychology",
+      "Peace and Conflict Studies",
+      "Philosophy",
+      "Political Science",
+      "Popular Music and Technology",
+      "Professional Writing and Communication",
+      "Psychology",
+      "Quantitative Analysis",
+      "Russian",
+      "Sociology",
+      "Spanish",
+      "Sports Studies",
+      "Studies in Religion",
+      "Writing"
+    ],
+    "Bachelors of Economics / Laws (Honours)": [
+      "Economics and Public Policy",
+      "Economics of Strategy and Behaviour",
+      "International and Financial Economics",
+      "Quantitative Analysis"
+    ],
+    "Bachelors of Economics / Science": [
+      "Applied Mathematics",
+      "Archaeological Science",
+      "Astrophysics",
+      "Biochemistry and Molecular Biology",
+      "Bioinformatics",
+      "Biomedical Science",
+      "Biophysics",
+      "Cell Biology",
+      "Chemical Biology",
+      "Chemistry",
+      "Coastal and Ocean Science",
+      "Computational Science",
+      "Computer Science",
+      "Developmental Biology",
+      "Earth Science",
+      "Ecology and Conservation Biology",
+      "Economics and Public Policy",
+      "Economics of Strategy and Behaviour",
+      "Entomology",
+      "Food Science and Nutrition",
+      "Food Technology",
+      "Genetics",
+      "Geographical Information Science",
+      "Geographical Science",
+      "Human Anatomy",
+      "Human Physiology",
+      "Immunology",
+      "International and Financial Economics",
+      "Marine Biology",
+      "Mathematics",
+      "Microbiology",
+      "Microbiology, Infection and Immunity",
+      "Neuroscience",
+      "Pharmacology",
+      "Physics",
+      "Plant Science",
+      "Psychology",
+      "Public Health",
+      "Quantitative Analysis",
+      "Statistics",
+      "Zoology"
+    ],
+    "Bachelor of Education (Primary)": [
+      "Education (Primary)"
+    ],
+    "Bachelor of Education (Primary) (Honours)": [
+      "Education (Primary) (Honours)"
+    ],
+    "Bachelor of Education (Secondary)": [
+      "Education (Secondary)"
+    ],
+    "Bachelor of Engineering (Honours)": [
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Mechatronic Engineering",
+      "Software Engineering"
+    ],
+    "Bachelors of Engineering (Honours) / Arts": [
+      "Aboriginal and Torres Strait Islander Studies",
+      "Ancient Greek",
+      "Ancient History",
+      "Ancient History/History",
+      "Anthropology",
+      "Archaeology",
+      "Art History",
+      "Australian Studies",
+      "Chemical Engineering",
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "Civil Engineering",
+      "Criminology",
+      "Drama",
+      "Economics",
+      "Electrical Engineering",
+      "English",
+      "English Literature",
+      "English as an International Language",
+      "Film and Television Studies",
+      "French",
+      "French Advanced",
+      "Gender Studies",
+      "Geography",
+      "German",
+      "History",
+      "Indonesian",
+      "International Relations",
+      "Japanese",
+      "Japanese Advanced",
+      "Journalism and Mass Communication",
+      "Korean",
+      "Latin",
+      "Legal Education Studies",
+      "Linguistics",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Mechatronic Engineering",
+      "Media and Digital Cultures",
+      "Music",
+      "Music Psychology",
+      "Peace and Conflict Studies",
+      "Philosophy",
+      "Political Science",
+      "Popular Music and Technology",
+      "Professional Writing and Communication",
+      "Psychology",
+      "Russian",
+      "Sociology",
+      "Software Engineering",
+      "Spanish",
+      "Sports Studies",
+      "Studies in Religion",
+      "Writing"
+    ],
+    "Bachelors of Engineering (Honours) / Biotechnology": [
+      "Agricultural Biotechnology",
+      "Chemical Engineering",
+      "Chemical and Nano Biotechnology",
+      "Medical Biotechnology",
+      "Molecular and Microbial Biotechnology",
+      "Synthetic Biology and Industrial\nBiotechnology"
+    ],
+    "Bachelors of Engineering (Honours) / Business Management": [
+      "Business Economics",
+      "Business Information Systems",
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Electrical Engineering",
+      "Human Resources",
+      "Innovation and Entrepreneurship",
+      "International Business",
+      "Leadership and Management Science",
+      "Marketing",
+      "Mechanical Engineering",
+      "Mechatronic Engineering",
+      "Software Engineering"
+    ],
+    "Bachelors of Engineering (Honours) / Commerce": [
+      "Accounting",
+      "Business Analytics",
+      "Business Infomation Systems",
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Electrical Engineering",
+      "Finance",
+      "Mechanical Engineering",
+      "Mechatronic Engineering",
+      "Software Engineering"
+    ],
+    "Bachelors of Engineering (Honours) / Computer Science": [
+      "Aerospace Engineering",
+      "Biomedical Engineering",
+      "Bioprocess Engineering",
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Computer Engineering",
+      "Cyber Security",
+      "Data Science",
+      "Electrical Engineering",
+      "Environmental Engineering",
+      "Fire Safety Engineering",
+      "General Civil Engineering",
+      "Geotechnical Engineering",
+      "Machine Learning",
+      "Materials Engineering",
+      "Mechanical Engineering",
+      "Mechatronic Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering",
+      "Programming Languages",
+      "Scientific Computing",
+      "Structural Engineering",
+      "Transport Engineering",
+      "Water and Marine Engineering"
+    ],
+    "Bachelors of Engineering (Honours) / Design": [
+      "Anthropology",
+      "Buildings and Environments",
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Electrical Engineering",
+      "Environment and Society",
+      "Information Environments",
+      "Innovation and Entrepreneurship",
+      "Mechanical Engineering",
+      "Mechatronic Engineering",
+      "Media and Digital Cultures",
+      "Software Engineering"
+    ],
+    "Bachelors of Engineering (Honours) / Economics": [
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Economics and Public Policy",
+      "Economics of Strategy and Behaviour",
+      "Electrical Engineering",
+      "International and Financial Economics",
+      "Mechanical Engineering",
+      "Mechatronic Engineering",
+      "Quantitative Analysis",
+      "Software Engineering"
+    ],
+    "Bachelors of Engineering (Honours) / Information Technology": [
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Mechatronic Engineering",
+      "Software Design",
+      "Software Information Systems",
+      "User Experience Design"
+    ],
+    "Bachelors of Engineering (Honours) / Mathematics": [
+      "Aerospace Engineering",
+      "Applied Mathematics",
+      "Biomedical Engineering",
+      "Bioprocess Engineering",
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Computer Engineering",
+      "Computing",
+      "Data Analytics and Operations Research",
+      "Data Science",
+      "Design",
+      "Electrical Engineering",
+      "Environmental Engineering",
+      "Fire Safety Engineering",
+      "General Civil Engineering",
+      "Geotechnical Engineering",
+      "Materials Engineering",
+      "Mathematical Physics",
+      "Mechanical Engineering",
+      "Mechatronic Engineering",
+      "Metallurgical Engineering",
+      "Mining Engineering",
+      "Pure Mathematics",
+      "Software Engineering",
+      "Statistics",
+      "Structural Engineering",
+      "Transport Engineering",
+      "Water and Marine Engineering"
+    ],
+    "Bachelors of Engineering (Honours) / Science": [
+      "Aerospace Engineering",
+      "Applied Mathematics",
+      "Archaeological Science",
+      "Biochemistry and Molecular Biology",
+      "Bioinformatics",
+      "Biomedical Engineering",
+      "Biomedical Science",
+      "Bioprocess Engineering",
+      "Cell Biology",
+      "Chemical Engineering",
+      "Chemistry",
+      "Civil Engineering",
+      "Coastal and Ocean Science",
+      "Computer Engineering",
+      "Computer Science",
+      "Computing",
+      "Data Science",
+      "Design",
+      "Earth Science",
+      "Ecology and Conservation Biology",
+      "Electrical Engineering",
+      "Environmental Engineering",
+      "Fire Safety Engineering",
+      "Food Science and Nutrition",
+      "Food Technology",
+      "General Civil Engineering",
+      "Genetics",
+      "Geographical Science",
+      "Geotechnical Engineering",
+      "Marine Biology",
+      "Materials Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Mechatronic Engineering",
+      "Metallurgical Engineering",
+      "Microbiology",
+      "Mining Engineering",
+      "Physics",
+      "Plant Science",
+      "Psychology",
+      "Public Health",
+      "Software Engineering",
+      "Statistics",
+      "Structural Engineering",
+      "Transport Engineering",
+      "Water and Marine Engineering",
+      "Zoology"
+    ],
+    "Bachelor of Engineering (Honours) and Master of Engineering": [
+      "Chemical Engineering",
+      "Chemical and Biomedical Engineering",
+      "Chemical and Bioprocess Engineering",
+      "Chemical and Environmental Engineering",
+      "Chemical and Materials Engineering",
+      "Chemical and Metallurgical Engineering",
+      "Civil Engineering",
+      "Civil and Environmental Engineering",
+      "Electrical Engineering",
+      "Electrical and Biomedical Engineering",
+      "Electrical and Computer Engineering",
+      "Mechanical Engineering",
+      "Mechanical and Aerospace Engineering",
+      "Mechanical and Materials Engineering",
+      "Mechatronic Engineering",
+      "Software Engineering"
+    ],
+    "Bachelor of Environmental Management (Honours)": [
+      "Environmental Management (Honours)"
+    ],
+    "Bachelor of Environmental Science": [
+      "Environmental Science"
+    ],
+    "Bachelor of Environmental Science (Honours)": [
+      "Environmental Science (Honours)"
+    ],
+    "Bachelor of Equine Science": [
+      "Equine Science"
+    ],
+    "Bachelor of Equine Science (Honours)": [
+      "Equine Science (Honours)"
+    ],
+    "Bachelor of Exercise and Nutrition Sciences": [
+      "Exercise and Nutrition Sciences"
+    ],
+    "Bachelor of Exercise and Nutrition Sciences (Honours)": [
+      "Exercise and Nutrition Sciences (Honours)"
+    ],
+    "Bachelor of Exercise and Sport Sciences (Honours)": [
+      "Exercise and Sport Sciences (Honours)"
+    ],
+    "Bachelor of Health Sciences": [
+      "Clinical Health",
+      "Nutrition",
+      "Public Health"
+    ],
+    "Bachelor of Health Sciences (Honours)": [
+      "Health Sciences (Honours)"
+    ],
+    "Bachelor of Health, Sport and Physical Education (Honours)": [
+      "Health, Sport and Physical Education (Honours)"
+    ],
+    "Bachelor of Human Services (Honours)": [
+      "Human Services (Honours)"
+    ],
+    "Bachelor of Humanities": [
+      "Western Civilisation"
+    ],
+    "Bachelors of Humanities / Laws (Honours)": [
+      "Western Civilisation"
+    ],
+    "Bachelor of Information Technology": [
+      "Computer Systems",
+      "Software Design",
+      "Software Information Systems",
+      "User Experience Design"
+    ],
+    "Bachelor of Information Technology (Honours)": [
+      "Information Technology (Honours)"
+    ],
+    "Bachelors of Information Technology / Arts": [
+      "Aboriginal and Torres Strait Islander Studies",
+      "Ancient Greek",
+      "Ancient History",
+      "Ancient History/History",
+      "Anthropology",
+      "Archaeology",
+      "Art History",
+      "Australian Studies",
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "Criminology",
+      "Drama",
+      "Economics",
+      "English",
+      "English Literature",
+      "English as an International Language",
+      "Film and Television Studies",
+      "French",
+      "French Advanced",
+      "Gender Studies",
+      "Geography",
+      "German",
+      "History",
+      "Indonesian",
+      "International Relations",
+      "Japanese",
+      "Japanese Advanced",
+      "Journalism and Mass Communication",
+      "Korean",
+      "Latin",
+      "Legal Education Studies",
+      "Linguistics",
+      "Mathematics",
+      "Media and Digital Cultures",
+      "Music",
+      "Music Psychology",
+      "Peace and Conflict Studies",
+      "Philosophy",
+      "Political Science",
+      "Popular Music and Technology",
+      "Professional Writing and Communication",
+      "Psychology",
+      "Russian",
+      "Sociology",
+      "Software Design",
+      "Software Information Systems",
+      "Spanish",
+      "Sports Studies",
+      "Studies in Religion",
+      "User Experience Design",
+      "Writing"
+    ],
+    "Bachelors of Information Technology / Science": [
+      "Applied Mathematics",
+      "Archaeological Science",
+      "Astrophysics",
+      "Biochemistry and Molecular Biology",
+      "Bioinformatics",
+      "Biomedical Science",
+      "Biophysics",
+      "Cell Biology",
+      "Chemical Biology",
+      "Chemistry",
+      "Coastal and Ocean Science",
+      "Computational Science",
+      "Computer Systems",
+      "Developmental Biology",
+      "Earth Science",
+      "Ecology and Conservation Biology",
+      "Entomology",
+      "Food Science and Nutrition",
+      "Food Technology",
+      "Genetics",
+      "Geographical Information Science",
+      "Geographical Science",
+      "Human Anatomy",
+      "Human Physiology",
+      "Immunology",
+      "Marine Biology",
+      "Mathematics",
+      "Microbiology",
+      "Microbiology, Infection and Immunity",
+      "Neuroscience",
+      "Pharmacology",
+      "Physics",
+      "Plant Science",
+      "Psychology",
+      "Public Health",
+      "Software Design",
+      "Software Information Systems",
+      "Statistics",
+      "User Experience Design",
+      "Zoology"
+    ],
+    "Bachelor of International Studies": [
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "Economics",
+      "French",
+      "French Advanced",
+      "German",
+      "Indonesian",
+      "International History",
+      "International Inequality and Development",
+      "International Relations",
+      "Japanese",
+      "Japanese Advanced",
+      "Korean",
+      "Peace and Conflict Studies",
+      "Russian",
+      "Spanish"
+    ],
+    "Bachelor of International Studies (Honours)": [
+      "Chinese",
+      "French",
+      "German",
+      "History",
+      "Indonesian",
+      "International Inequality and Development",
+      "International Relations",
+      "Japanese",
+      "Korean",
+      "Peace and Conflict Studies",
+      "Russian",
+      "Spanish"
+    ],
+    "Bachelor of Journalism": [
+      "Film and Television Studies",
+      "Political Science",
+      "Popular Music and Technology",
+      "Sports Studies"
+    ],
+    "Bachelor of Journalism (Honours)": [
+      "Journalism (Honours)"
+    ],
+    "Bachelors of Journalism / Arts": [
+      "Aboriginal and Torres Strait Islander Studies",
+      "Ancient Greek",
+      "Ancient History",
+      "Ancient History/History",
+      "Anthropology",
+      "Archaeology",
+      "Art History",
+      "Australian Studies",
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "Criminology",
+      "Drama",
+      "Economics",
+      "English",
+      "English Literature",
+      "English as an International Language",
+      "Film and Television Studies",
+      "French",
+      "French Advanced",
+      "Gender Studies",
+      "Geography",
+      "German",
+      "History",
+      "Indonesian",
+      "International Relations",
+      "Japanese",
+      "Japanese Advanced",
+      "Korean",
+      "Latin",
+      "Legal Education Studies",
+      "Linguistics",
+      "Mathematics",
+      "Media and Digital Cultures",
+      "Music",
+      "Music Psychology",
+      "Peace and Conflict Studies",
+      "Philosophy",
+      "Political Science",
+      "Popular Music and Technology",
+      "Psychology",
+      "Russian",
+      "Sociology",
+      "Spanish",
+      "Sports Studies",
+      "Studies in Religion",
+      "Writing"
+    ],
+    "Bachelors of Journalism / Laws (Honours)": [
+      "Journalism / Laws (Honours)"
+    ],
+    "Diploma of Languages": [
+      "Ancient Greek",
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "French",
+      "French Advanced",
+      "German",
+      "Indonesian",
+      "Japanese",
+      "Japanese Advanced",
+      "Korean",
+      "Latin",
+      "Russian",
+      "Spanish"
+    ],
+    "Bachelor of Laws (Honours)": [
+      "Laws (Honours)"
+    ],
+    "Bachelor of Mathematics": [
+      "Applied Mathematics",
+      "Bioinformatics",
+      "Computational Science",
+      "Computer Science",
+      "Data Analytics and Operations Research",
+      "Mathematical Physics",
+      "Physics",
+      "Pure Mathematics",
+      "Statistics"
+    ],
+    "Bachelor of Mathematics (Honours)": [
+      "Mathematics (Honours)"
+    ],
+    "Bachelors of Mathematics / Arts": [
+      "Aboriginal and Torres Strait Islander Studies",
+      "Ancient Greek",
+      "Ancient History",
+      "Ancient History/History",
+      "Anthropology",
+      "Applied Mathematics",
+      "Archaeology",
+      "Art History",
+      "Australian Studies",
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "Criminology",
+      "Data Analytics and Operations Research",
+      "Drama",
+      "Economics",
+      "English",
+      "English Literature",
+      "English as an International Language",
+      "Film and Television Studies",
+      "French",
+      "French Advanced",
+      "Gender Studies",
+      "Geography",
+      "German",
+      "History",
+      "Indonesian",
+      "International Relations",
+      "Japanese",
+      "Japanese Advanced",
+      "Journalism and Mass Communication",
+      "Korean",
+      "Latin",
+      "Legal Education Studies",
+      "Linguistics",
+      "Mathematical Physics",
+      "Media and Digital Cultures",
+      "Music",
+      "Music Psychology",
+      "Peace and Conflict Studies",
+      "Philosophy",
+      "Political Science",
+      "Popular Music and Technology",
+      "Professional Writing and Communication",
+      "Psychology",
+      "Pure Mathematics",
+      "Russian",
+      "Sociology",
+      "Spanish",
+      "Sports Studies",
+      "Statistics",
+      "Studies in Religion",
+      "Writing"
+    ],
+    "Bachelors of Mathematics / Business Management": [
+      "Applied Mathematics",
+      "Business Economics",
+      "Business Information Systems",
+      "Data Analytics and Operations Research",
+      "Human Resources",
+      "Innovation and Entrepreneurship",
+      "International Business",
+      "Leadership and Management Science",
+      "Marketing",
+      "Mathematical Physics",
+      "Pure Mathematics",
+      "Statistics"
+    ],
+    "Bachelors of Mathematics / Commerce": [
+      "Accounting",
+      "Applied Mathematics",
+      "Business Analytics",
+      "Business Infomation Systems",
+      "Data Analytics and Operations Research",
+      "Finance",
+      "Mathematical Physics",
+      "Pure Mathematics",
+      "Statistics"
+    ],
+    "Bachelors of Mathematics / Computer Science": [
+      "Applied Mathematics",
+      "Bioinformatics",
+      "Computational Science",
+      "Cyber Security",
+      "Data Analytics and Operations Research",
+      "Data Science",
+      "Machine Learning",
+      "Mathematical Physics",
+      "Physics",
+      "Programming Languages",
+      "Pure Mathematics",
+      "Scientific Computing",
+      "Statistics"
+    ],
+    "Bachelors of Mathematics / Economics": [
+      "Applied Mathematics",
+      "Data Analytics and Operations Research",
+      "Economics and Public Policy",
+      "Economics of Strategy and Behaviour",
+      "International and Financial Economics",
+      "Mathematical Physics",
+      "Pure Mathematics",
+      "Quantitative Analysis",
+      "Statistics"
+    ],
+    "Bachelors of Mathematics / Education (Secondary)": [
+      "Applied Mathematics",
+      "Data Analytics and Operations Research",
+      "Mathematical Physics",
+      "Pure Mathematics",
+      "Statistics"
+    ],
+    "Bachelors of Mathematics / Science": [
+      "Applied Mathematics",
+      "Archaeological Science",
+      "Astrophysics",
+      "Biochemistry and Molecular Biology",
+      "Bioinformatics",
+      "Biomedical Science",
+      "Biophysics",
+      "Cell Biology",
+      "Chemical Biology",
+      "Chemistry",
+      "Coastal and Ocean Science",
+      "Computational Science",
+      "Computer Science",
+      "Data Analytics and Operations Research",
+      "Developmental Biology",
+      "Earth Science",
+      "Ecology and Conservation Biology",
+      "Entomology",
+      "Food Science and Nutrition",
+      "Food Technology",
+      "Genetics",
+      "Geographical Information Science",
+      "Geographical Science",
+      "Human Anatomy",
+      "Human Physiology",
+      "Immunology",
+      "Marine Biology",
+      "Mathematical Physics",
+      "Microbiology",
+      "Microbiology, Infection and Immunity",
+      "Neuroscience",
+      "Pharmacology",
+      "Physics",
+      "Plant Science",
+      "Psychology",
+      "Public Health",
+      "Pure Mathematics",
+      "Statistics",
+      "Zoology"
+    ],
+    "Bachelor of Midwifery": [
+      "Midwifery"
+    ],
+    "Bachelor of Midwifery (Honours)": [
+      "Midwifery (Honours)"
+    ],
+    "Bachelor of Music (Honours)": [
+      "Music (Honours)"
+    ],
+    "Bachelors of Music (Honours) / Arts": [
+      "Aboriginal and Torres Strait Islander Studies",
+      "Ancient Greek",
+      "Ancient History",
+      "Ancient History/History",
+      "Anthropology",
+      "Archaeology",
+      "Art History",
+      "Australian Studies",
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "Criminology",
+      "Drama",
+      "Economics",
+      "English",
+      "English Literature",
+      "English as an International Language",
+      "Film and Television Studies",
+      "French",
+      "French Advanced",
+      "Gender Studies",
+      "Geography",
+      "German",
+      "History",
+      "Indonesian",
+      "International Relations",
+      "Japanese",
+      "Japanese Advanced",
+      "Journalism and Mass Communication",
+      "Korean",
+      "Latin",
+      "Legal Education Studies",
+      "Linguistics",
+      "Mathematics",
+      "Media and Digital Cultures",
+      "Music",
+      "Peace and Conflict Studies",
+      "Philosophy",
+      "Political Science",
+      "Professional Writing and Communication",
+      "Psychology",
+      "Russian",
+      "Sociology",
+      "Spanish",
+      "Sports Studies",
+      "Studies in Religion",
+      "Writing"
+    ],
+    "Bachelors of Music (Honours) / Education (Secondary)": [
+      "Music (Honours) / Education (Secondary)"
+    ],
+    "Bachelors of Music (Honours) / Science": [
+      "Applied Mathematics",
+      "Archaeological Science",
+      "Astrophysics",
+      "Biochemistry and Molecular Biology",
+      "Bioinformatics",
+      "Biomedical Science",
+      "Biophysics",
+      "Cell Biology",
+      "Chemical Biology",
+      "Chemistry",
+      "Coastal and Ocean Science",
+      "Computational Science",
+      "Computer Science",
+      "Developmental Biology",
+      "Earth Science",
+      "Ecology and Conservation Biology",
+      "Entomology",
+      "Food Science and Nutrition",
+      "Food Technology",
+      "Genetics",
+      "Geographical Information Science",
+      "Geographical Science",
+      "Human Anatomy",
+      "Human Physiology",
+      "Immunology",
+      "Marine Biology",
+      "Mathematics",
+      "Microbiology",
+      "Microbiology, Immunity and Infection",
+      "Neuroscience",
+      "Pharmacology",
+      "Physics",
+      "Plant Science",
+      "Psychology",
+      "Public Health",
+      "Statistics",
+      "Zoology"
+    ],
+    "Bachelor of Nursing": [
+      "Nursing"
+    ],
+    "Bachelor of Nursing (Honours)": [
+      "Nursing (Honours)"
+    ],
+    "Bachelors of Nursing / Midwifery": [
+      "Nursing / Midwifery"
+    ],
+    "Bachelor of Occupational Health and Safety Science (Honours)": [
+      "Occupational Health and Safety Science (Honours)"
+    ],
+    "Bachelor of Occupational Therapy (Honours)": [
+      "Occupational Therapy (Honours)"
+    ],
+    "Bachelor of Pharmacy (Honours)": [
+      "Clinical and Experimental Therapeutics"
+    ],
+    "Bachelor of Physiotherapy (Honours)": [
+      "Physiotherapy (Honours)"
+    ],
+    "Bachelor of Politics, Philosophy and Economics (Honours)": [
+      "Economics",
+      "Philosophy",
+      "Politics"
+    ],
+    "Bachelor of Psychological Science (Honours)": [
+      "Psychological Science (Honours)"
+    ],
+    "Bachelor of Regional and Town Planning": [
+      "Regional and Town Planning"
+    ],
+    "Bachelor of Regional and Town Planning (Honours)": [
+      "Regional and Town Planning (Honours)"
+    ],
+    "Bachelor of Science": [
+      "Aboriginal and Torres Strait Islander Studies",
+      "Ancient Greek",
+      "Ancient History",
+      "Ancient History/History",
+      "Anthropology",
+      "Applied Mathematics",
+      "Archaeological Science",
+      "Art History",
+      "Astrophysics",
+      "Australian Studies",
+      "Biochemistry and Molecular Biology",
+      "Bioinformatics",
+      "Biomedical Science",
+      "Biophysics",
+      "Cell Biology",
+      "Chemical Biology",
+      "Chemistry",
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "Coastal and Ocean Science",
+      "Computational Science",
+      "Computer Science",
+      "Criminology",
+      "Data Science",
+      "Design",
+      "Developmental Biology",
+      "Drama",
+      "Earth Science",
+      "Ecology and Conservation Biology",
+      "Economics",
+      "English",
+      "English Literature",
+      "English as an International Language",
+      "Entomology",
+      "Film and Television Studies",
+      "Food Science and Nutrition",
+      "Food Technology",
+      "French",
+      "French Advanced",
+      "Gender Studies",
+      "Genetics",
+      "Geographical Information Science",
+      "Geographical Science",
+      "German",
+      "History",
+      "Human Anatomy",
+      "Human Physiology",
+      "Immunology",
+      "Indonesian",
+      "International Relations",
+      "Japanese",
+      "Japanese Advanced",
+      "Journalism and Mass Communication",
+      "Korean",
+      "Latin",
+      "Legal Education Studies",
+      "Linguistics",
+      "Marine Biology",
+      "Mathematics",
+      "Media and Digital Cultures",
+      "Microbiology",
+      "Microbiology, Infection and Immunity",
+      "Music",
+      "Music Psychology",
+      "Neuroscience",
+      "Peace and Conflict Studies",
+      "Pharmacology",
+      "Philosophy",
+      "Physics",
+      "Plant Science",
+      "Political Science",
+      "Popular Music and Technology",
+      "Population and Place",
+      "Professional Writing and Communication",
+      "Psychology",
+      "Public Health",
+      "Russian",
+      "Sociology",
+      "Spanish",
+      "Sports Studies",
+      "Statistics",
+      "Studies in Religion",
+      "Writing",
+      "Zoology"
+    ],
+    "Diploma of Science": [
+      "Applied Mathematics",
+      "Archaeological Science",
+      "Astrophysics",
+      "Biochemistry and Molecular Biology",
+      "Biophysics",
+      "Cell Biology",
+      "Chemical Biology",
+      "Chemistry",
+      "Coastal and Ocean Science",
+      "Computational Science",
+      "Computer Science",
+      "Developmental Biology",
+      "Earth Science",
+      "Ecology and Conservation Biology",
+      "Entomology",
+      "Genetics",
+      "Geographical Information Science",
+      "Human Anatomy",
+      "Human Physiology",
+      "Immunology",
+      "Marine Biology",
+      "Mathematics",
+      "Microbiology",
+      "Neuroscience",
+      "Pharmacology",
+      "Physics",
+      "Plant Science",
+      "Psychology",
+      "Statistics",
+      "Zoology"
+    ],
+    "Bachelor of Science (Honours)": [
+      "Anatomy",
+      "Archaeological Science",
+      "Biochemistry and Molecular Biology",
+      "Bioinformatics",
+      "Biomedical Science",
+      "Biophysics",
+      "Cell Biology",
+      "Chemistry",
+      "Coastal and Ocean Science",
+      "Computer Science",
+      "Developmental Biology",
+      "Drug Design and Development",
+      "Earth Science",
+      "Ecology and Conservation Biology",
+      "Entomology",
+      "Environmental Science",
+      "Evolutionary Biology",
+      "Food Science and Nutrition",
+      "Food Technology",
+      "Genetics",
+      "Genomics",
+      "Geographical Science",
+      "Immunology",
+      "Marine Biology",
+      "Mathematics",
+      "Microbiology",
+      "Nanotechnology",
+      "Neuroscience",
+      "Parasitology",
+      "Pharmacology",
+      "Physics",
+      "Physiology",
+      "Plant Science",
+      "Psychology",
+      "Public Health",
+      "Statistics",
+      "Wildlife Biology",
+      "Zoology"
+    ],
+    "Bachelors of Science / Arts": [
+      "Aboriginal and Torres Strait Islander Studies",
+      "Ancient Greek",
+      "Ancient History",
+      "Ancient History/History",
+      "Anthropology",
+      "Applied Mathematics",
+      "Archaeological Science",
+      "Archaeology",
+      "Art History",
+      "Astrophysics",
+      "Australian Studies",
+      "Biochemistry and Molecular Biology",
+      "Bioinformatics",
+      "Biomedical Science",
+      "Biophysics",
+      "Cell Biology",
+      "Chemical Biology",
+      "Chemistry",
+      "Chinese",
+      "Chinese Translation and Interpreting",
+      "Coastal and Ocean Science",
+      "Computational Science",
+      "Computer Science",
+      "Criminology",
+      "Developmental Biology",
+      "Drama",
+      "Earth Science",
+      "Ecology and Conservation Biology",
+      "Economics",
+      "English",
+      "English Literature",
+      "English as an International Language",
+      "Entomology",
+      "Film and Television Studies",
+      "Food Science and Nutrition",
+      "Food Technology",
+      "French",
+      "French Advanced",
+      "Gender Studies",
+      "Genetics",
+      "Geographical Information Science",
+      "Geographical Science",
+      "Geography",
+      "German",
+      "History",
+      "Human Anatomy",
+      "Human Physiology",
+      "Immunology",
+      "Indonesian",
+      "International Relations",
+      "Japanese",
+      "Japanese Advanced",
+      "Journalism and Mass Communication",
+      "Korean",
+      "Latin",
+      "Legal Education Studies",
+      "Linguistics",
+      "Marine Biology",
+      "Mathematics",
+      "Media and Digital Cultures",
+      "Microbiology",
+      "Microbiology, Infection and Immunity",
+      "Music",
+      "Music Psychology",
+      "Neuroscience",
+      "Peace and Conflict Studies",
+      "Pharmacology",
+      "Philosophy",
+      "Physics",
+      "Plant Science",
+      "Political Science",
+      "Popular Music and Technology",
+      "Professional Writing and Communication",
+      "Psychology",
+      "Public Health",
+      "Russian",
+      "Sociology",
+      "Spanish",
+      "Sports Studies",
+      "Statistics",
+      "Studies in Religion",
+      "Writing",
+      "Zoology"
+    ],
+    "Bachelors of Science / Education (Secondary)": [
+      "Applied Mathematics",
+      "Astrophysics",
+      "Biochemistry and Molecular Biology",
+      "Biomedical Science",
+      "Cell Biology",
+      "Chemical Biology",
+      "Chemistry",
+      "Coastal and Ocean Science",
+      "Computer Science",
+      "Developmental Biology",
+      "Earth Science",
+      "Ecology and Conservation Biology",
+      "Genetics",
+      "Geographical Information Science",
+      "Geographical Science",
+      "Human Physiology",
+      "Mathematics",
+      "Microbiology",
+      "Neuroscience",
+      "Pharmacology",
+      "Physics",
+      "Plant Science",
+      "Psychology",
+      "Zoology"
+    ],
+    "Bachelors of Science / Journalism": [
+      "Applied Mathematics",
+      "Archaeological Science",
+      "Astrophysics",
+      "Biochemistry and Molecular Biology",
+      "Bioinformatics",
+      "Biomedical Science",
+      "Biophysics",
+      "Cell Biology",
+      "Chemical Biology",
+      "Chemistry",
+      "Coastal and Ocean Science",
+      "Computational Science",
+      "Computer Science",
+      "Developmental Biology",
+      "Earth Science",
+      "Ecology and Conservation Biology",
+      "Entomology",
+      "Food Science and Nutrition",
+      "Food Technology",
+      "Genetics",
+      "Geographical Information Science",
+      "Geographical Science",
+      "Human Anatomy",
+      "Human Physiology",
+      "Immunology",
+      "Marine Biology",
+      "Mathematics",
+      "Microbiology",
+      "Microbiology, Infection and Immunity",
+      "Neuroscience",
+      "Pharmacology",
+      "Physics",
+      "Plant Science",
+      "Psychology",
+      "Public Health",
+      "Statistics",
+      "Zoology"
+    ],
+    "Bachelors of Science / Laws (Honours)": [
+      "Applied Mathematics",
+      "Archaeological Science",
+      "Astrophysics",
+      "Biochemistry and Molecular Biology",
+      "Bioinformatics",
+      "Biomedical Science",
+      "Biophysics",
+      "Cell Biology",
+      "Chemical Biology",
+      "Chemistry",
+      "Coastal and Ocean Science",
+      "Computational Science",
+      "Computer Science",
+      "Developmental Biology",
+      "Earth Science",
+      "Ecology and Conservation Biology",
+      "Entomology",
+      "Food Science and Nutrition",
+      "Food Technology",
+      "Genetics",
+      "Geographical Information Science",
+      "Geographical Science",
+      "Human Anatomy",
+      "Human Physiology",
+      "Immunology",
+      "Marine Biology",
+      "Mathematics",
+      "Microbiology",
+      "Microbiology, Immunity and Infection",
+      "Neuroscience",
+      "Pharmacology",
+      "Physics",
+      "Plant Science",
+      "Psychology",
+      "Public Health",
+      "Statistics",
+      "Zoology"
+    ],
+    "Bachelor of Social Science": [
+      "Development",
+      "Environment and Society",
+      "Health and Social Policy"
+    ],
+    "Bachelor of Social Science (Honours)": [
+      "Development",
+      "Health and Society",
+      "Social and Public Policy"
+    ],
+    "Bachelor of Social Work (Honours)": [
+      "Child, Youth and Family",
+      "Health and Ageing",
+      "Mental Health"
+    ],
+    "Bachelor of Speech Pathology (Honours)": [
+      "Speech Pathology (Honours)"
+    ],
+    "Bachelor of Tourism, Hospitality and Event Management": [
+      "Hotel and Hospitality Management",
+      "Tourism and Event Management"
+    ],
+    "Bachelor of Veterinary Science (Honours)": [
+      "Veterinary Science (Honours)"
+    ],
+    "Bachelor of Veterinary Technology": [
+      "Veterinary Technology"
+    ],
+    "Bachelor of Veterinary Technology (Honours)": [
+      "Veterinary Technology (Honours)"
+    ],
+    "Bachelor of Wildlife Science": [
+      "Wildlife Science"
+    ],
+    "Bachelor of Wildlife Science (Honours)": [
+      "Wildlife Science (Honours)"
+    ]
+  },
+  "postgrad": {
+    "Masters of Advanced Economics": [
+      "Advanced Economics (24 units)"
+    ],
+    "Masters of Advanced Nursing": [
+      "Advanced Nursing"
+    ],
+    "Graduate Certificate of Agribusiness": [
+      "Agribusiness"
+    ],
+    "Masters of Agribusiness": [
+      "Agribusiness (32 units)"
+    ],
+    "Graduate Certificate of Agricultural Science": [
+      "Agricultural Science"
+    ],
+    "Masters of Agricultural Science": [
+      "Agronomy",
+      "Horticulture",
+      "Plant Protection"
+    ],
+    "Graduate Certificate of Alcohol, Tobacco and Other Drug Studies": [
+      "Alcohol, Tobacco and Other Drug Studies"
+    ],
+    "Graduate Certificate of Animal Science": [
+      "Animal Science"
+    ],
+    "Masters of Animal Science": [
+      "Equine Science",
+      "Production Animal Science",
+      "Wildlife Biology"
+    ],
+    "Masters of Applied Econometrics": [
+      "Applied Econometrics (32 units)"
+    ],
+    "Graduate Certificate of Applied Linguistics": [
+      "Applied Linguistics",
+      "TESOL Studies"
+    ],
+    "Masters of Applied Linguistics": [
+      "Applied Linguistics",
+      "TESOL Studies"
+    ],
+    "Masters of Architecture": [
+      "Architecture"
+    ],
+    "Graduate Certificate of Arts in Chinese Translation and Interpreting": [
+      "Arts in Chinese Translation and Interpreting"
+    ],
+    "Masters of Arts in Chinese Translation and Interpreting": [
+      "Arts in Chinese Translation and Interpreting (32 units)"
+    ],
+    "Graduate Certificate of Arts in Japanese Interpreting": [
+      "Arts in Japanese Interpreting"
+    ],
+    "Graduate Diploma of Arts in Japanese Interpreting and Translation": [
+      "Arts in Japanese Interpreting and Translation"
+    ],
+    "Masters of Arts in Japanese Interpreting and Translation": [
+      "Arts in Japanese Interpreting and Translation"
+    ],
+    "Graduate Certificate of Arts in Japanese Translation": [
+      "Arts in Japanese Translation"
+    ],
+    "Masters of Audiology Studies": [
+      "Audiology Studies"
+    ],
+    "Graduate Certificate of Bioinformatics": [
+      "Bioinformatics"
+    ],
+    "Masters of Bioinformatics": [
+      "Bioinformatics (24 units)"
+    ],
+    "Masters of Bioinformatics Research Extensive": [
+      "Bioinformatics Research Extensive (32 units)"
+    ],
+    "Graduate Certificate of Biostatistics": [
+      "Biostatistics"
+    ],
+    "Graduate Diploma of Biostatistics": [
+      "Biostatistics"
+    ],
+    "Masters of Biostatistics": [
+      "Biostatistics (24 units)"
+    ],
+    "Graduate Certificate of Biotechnology": [
+      "Biotechnology"
+    ],
+    "Graduate Diploma of Biotechnology": [
+      "Biotechnology"
+    ],
+    "Masters of Biotechnology": [
+      "Agricultural Biotechnology"
+    ],
+    "Masters of Biotechnology Research Extensive": [
+      "Agricultural Biotechnology"
+    ],
+    "Graduate Certificate of Business": [
+      "Business"
+    ],
+    "Masters of Business": [
+      "Advertising",
+      "Human Resource Management",
+      "Information Systems",
+      "Innovation and Entrepreneurship",
+      "International Business",
+      "Leadership",
+      "Marketing",
+      "Organisational Sustainability",
+      "Supply Chain Management"
+    ],
+    "Graduate Certificate of Business Administration": [
+      "Business Administration"
+    ],
+    "Graduate Diploma of Business Administration": [
+      "Business Administration"
+    ],
+    "Masters of Business Administration": [
+      "Business Administration"
+    ],
+    "Graduate Certificate of Business Analytics": [
+      "Business Analytics"
+    ],
+    "Masters of Business Analytics": [
+      "Business Analytics"
+    ],
+    "Masters of Business Psychology": [
+      "Business Psychology"
+    ],
+    "Graduate Diploma of Business Research Methods": [
+      "Business Research Methods"
+    ],
+    "Masters of Clinical Dentistry": [
+      "Dento-Maxillofacial Radiology",
+      "Endodontics",
+      "Oral Medicine",
+      "Orthodontics",
+      "Periodontics",
+      "Prosthodontics",
+      "Special Needs Dentistry"
+    ],
+    "Graduate Certificate of Clinical Pharmacy": [
+      "Clinical Pharmacy"
+    ],
+    "Masters of Clinical Pharmacy": [
+      "Clinical Pharmacy (16 units)"
+    ],
+    "Masters of Clinical Psychology": [
+      "Clinical Psychology"
+    ],
+    "Graduate Certificate of Commerce": [
+      "Commerce"
+    ],
+    "Masters of Commerce": [
+      "Applied Finance",
+      "Information Systems",
+      "Professional Accounting"
+    ],
+    "Graduate Certificate of Communication": [
+      "Communication for Social Change",
+      "Strategic Communication"
+    ],
+    "Masters of Communication": [
+      "Communication for Social Change",
+      "Strategic Communication"
+    ],
+    "Graduate Certificate of Computer Science": [
+      "Computer Science"
+    ],
+    "Graduate Diploma of Computer Science": [
+      "Computer Science"
+    ],
+    "Masters of Computer Science": [
+      "Computer Science (24 units)"
+    ],
+    "Masters of Computer Science (Management)": [
+      "Computer Science (Management)"
+    ],
+    "Masters of Conservation Biology": [
+      "Conservation Biology (24 units)"
+    ],
+    "Masters of Conservation Science": [
+      "Conservation Science (32 units)"
+    ],
+    "Masters of Counselling": [
+      "Counselling"
+    ],
+    "Graduate Certificate of Cyber Security": [
+      "Cyber Security"
+    ],
+    "Graduate Diploma of Cyber Security": [
+      "Cryptography",
+      "Cyber Criminology",
+      "Cyber Defence",
+      "Leadership"
+    ],
+    "Masters of Cyber Security": [
+      "Cryptography",
+      "Cyber Criminology",
+      "Cyber Defence",
+      "Leadership"
+    ],
+    "Masters of Data Science": [
+      "Data Science (32 units)"
+    ],
+    "Masters of Development Economics": [
+      "Development Economics (32 units)"
+    ],
+    "Masters of Development Economics / Economics and Public Policy": [
+      "Development Economics / Economics and Public Policy"
+    ],
+    "Graduate Certificate of Development Practice": [
+      "Development Practice"
+    ],
+    "Masters of Development Practice": [
+      "Development Practice (32 units)"
+    ],
+    "Masters of Dietetics Studies": [
+      "Dietetics Studies"
+    ],
+    "Graduate Certificate of Economic Studies": [
+      "Economic Studies"
+    ],
+    "Graduate Certificate of Economics": [
+      "Economics"
+    ],
+    "Graduate Diploma of Economics": [
+      "Economics"
+    ],
+    "Masters of Economics": [
+      "Economics (32 units)"
+    ],
+    "Masters of Economics and Public Policy": [
+      "Economics and Public Policy (32 units)"
+    ],
+    "Graduate Certificate of Educational Studies": [
+      "Behaviour Management",
+      "Curriculum",
+      "Guidance, Counselling and Careers",
+      "Leadership",
+      "Psychology Education",
+      "Science of Learning",
+      "Supporting Diverse Learners"
+    ],
+    "Masters of Educational Studies": [
+      "Behaviour Management",
+      "Curriculum",
+      "Guidance, Counselling and Careers",
+      "Leadership",
+      "Psychology Education",
+      "Science of Learning",
+      "Supporting Diverse Learners"
+    ],
+    "Masters of Engineering": [
+      "Bioengineering",
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Petroleum Engineering",
+      "Renewable Energy Engineering",
+      "Software Engineering",
+      "Urban Water Engineering"
+    ],
+    "Graduate Certificate of Engineering Science": [
+      "Bioengineering",
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Electrical Engineering",
+      "Materials and Manufacturing Engineering",
+      "Mechanical Engineering",
+      "Mechatronic Engineering",
+      "Petroleum Engineering",
+      "Software Engineering",
+      "Urban Water Engineering"
+    ],
+    "Masters of Engineering Science": [
+      "Electrical Engineering",
+      "Fire Safety Engineering",
+      "Software Engineering"
+    ],
+    "Masters of Engineering Science (Management)": [
+      "Bioengineering",
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Electrical Engineering",
+      "Materials and Manufacturing Engineering",
+      "Mechanical Engineering",
+      "Mechatronic Engineering",
+      "Petroleum Engineering",
+      "Software Engineering"
+    ],
+    "Graduate Certificate of Entrepreneurship and Innovation": [
+      "Entrepreneurship and Innovation"
+    ],
+    "Masters of Entrepreneurship and Innovation": [
+      "Biotechnology",
+      "Design and Information Technology",
+      "Food Entrepreneurship",
+      "Social and Community Entrepreneurship",
+      "Sustainable Energy"
+    ],
+    "Graduate Certificate of Environmental Health Sciences": [
+      "Environmental Health Sciences"
+    ],
+    "Graduate Diploma of Environmental Health Sciences": [
+      "Environmental Health Sciences"
+    ],
+    "Masters of Environmental Health Sciences": [
+      "Environmental Health Sciences"
+    ],
+    "Graduate Certificate of Environmental Management": [
+      "Environmental Management"
+    ],
+    "Graduate Diploma of Environmental Management": [
+      "Environmental Management"
+    ],
+    "Masters of Environmental Management": [
+      "Environmental Management (32 units)"
+    ],
+    "Graduate Certificate of Epidemiology": [
+      "Epidemiology"
+    ],
+    "Graduate Diploma of Epidemiology": [
+      "Epidemiology"
+    ],
+    "Masters of Epidemiology": [
+      "Epidemiology (24 units)"
+    ],
+    "Masters of Financial Mathematics": [
+      "Financial Mathematics (32 units)"
+    ],
+    "Graduate Certificate of Food Science and Technology": [
+      "Food Science and Technology"
+    ],
+    "Masters of Food Science and Technology": [
+      "Food Science and Technology (32 units)"
+    ],
+    "Graduate Certificate of Geographic Information Science": [
+      "Geographic Information Science"
+    ],
+    "Graduate Diploma of Geographic Information Science": [
+      "Geographic Information Science"
+    ],
+    "Masters of Geographic Information Science": [
+      "Geographic Information Science (32 units)"
+    ],
+    "Masters of Global Management": [
+      "International Economics and Finance",
+      "International Enterprise Management",
+      "International Tourism"
+    ],
+    "Graduate Certificate of Governance and Public Policy": [
+      "Governance and Public Policy"
+    ],
+    "Graduate Diploma of Governance and Public Policy": [
+      "Governance and Public Policy"
+    ],
+    "Masters of Governance and Public Policy": [
+      "Governance and Public Policy (32 units)"
+    ],
+    "Masters of Health Economics": [
+      "Health Economics (32 units)"
+    ],
+    "Graduate Certificate of Information Technology": [
+      "Information Technology"
+    ],
+    "Graduate Diploma of Information Technology": [
+      "Information Technology"
+    ],
+    "Masters of Information Technology": [
+      "Information Technology"
+    ],
+    "Graduate Certificate of Insurance Law": [
+      "Insurance Law"
+    ],
+    "Graduate Certificate of Interaction Design": [
+      "Interaction Design"
+    ],
+    "Graduate Diploma of Interaction Design": [
+      "Interaction Design"
+    ],
+    "Masters of Interaction Design": [
+      "Interaction Design"
+    ],
+    "Masters of International Commercial Law": [
+      "International Commercial Law (24 units)"
+    ],
+    "Masters of International Commercial Law / Commerce": [
+      "Applied Finance",
+      "Information Systems",
+      "Professional Accounting"
+    ],
+    "Masters of International Economics and Finance": [
+      "International Economics and Finance (32 units)"
+    ],
+    "Masters of International Economics and Finance / Commerce": [
+      "Applied Finance"
+    ],
+    "Masters of International Law": [
+      "International Law"
+    ],
+    "Graduate Certificate of International Relations": [
+      "International Relations"
+    ],
+    "Masters of International Relations": [
+      "International Relations (32 units)"
+    ],
+    "Masters of International Relations / International Law": [
+      "International Relations / International Law"
+    ],
+    "Masters of International Relations / Peace and Conflict Studies": [
+      "International Relations / Peace and Conflict Studies"
+    ],
+    "Masters of Laws": [
+      "Laws (24 units)"
+    ],
+    "Masters of Leadership in Service Innovation": [
+      "Leadership in Service Innovation"
+    ],
+    "Graduate Certificate of Magnetic Resonance Technology": [
+      "Magnetic Resonance Technology"
+    ],
+    "Graduate Diploma of Magnetic Resonance Technology": [
+      "Magnetic Resonance Technology"
+    ],
+    "Masters of Magnetic Resonance Technology": [
+      "Magnetic Resonance Technology (24 units)"
+    ],
+    "Graduate Certificate of Magnetic Resonance and Positron Emission Tomography": [
+      "Magnetic Resonance and Positron Emission Tomography"
+    ],
+    "Graduate Certificate of Mediation and Conflict Resolution": [
+      "Mediation and Conflict Resolution"
+    ],
+    "Masters of Medicine": [
+      "Skin Cancer"
+    ],
+    "Graduate Certificate of Medicine": [
+      "Medicine"
+    ],
+    "Masters of Medicine-Ochsner": [
+      "Medicine-Ochsner"
+    ],
+    "Graduate Certificate of Mental Health": [
+      "Mental Health"
+    ],
+    "Masters of Mental Health": [
+      "Art Therapy",
+      "Psychotherapy"
+    ],
+    "Graduate Certificate of Mental Health Nursing": [
+      "Mental Health Nursing"
+    ],
+    "Graduate Diploma of Mental Health Nursing": [
+      "Mental Health Nursing"
+    ],
+    "Masters of Mental Health Nursing": [
+      "Mental Health Nursing"
+    ],
+    "Graduate Certificate of Molecular Biology": [
+      "Molecular Biology"
+    ],
+    "Graduate Diploma of Molecular Biology": [
+      "Molecular Biology"
+    ],
+    "Masters of Molecular Biology": [
+      "Molecular Biology (32 units)"
+    ],
+    "Masters of Molecular Biology Research Extensive": [
+      "Molecular Biology Research Extensive (32 units)"
+    ],
+    "Masters of Molecular Imaging Technology": [
+      "Molecular Imaging Technology"
+    ],
+    "Graduate Certificate of Museum Studies": [
+      "Museum Studies"
+    ],
+    "Masters of Museum Studies": [
+      "Museum Studies"
+    ],
+    "Graduate Certificate of Music": [
+      "Music"
+    ],
+    "Masters of Music": [
+      "Music (24 units)"
+    ],
+    "Masters of Nurse Practitioner": [
+      "Nurse Practitioner"
+    ],
+    "Graduate Certificate of Nursing": [
+      "Nursing"
+    ],
+    "Masters of Nursing Studies": [
+      "Nursing Studies"
+    ],
+    "Masters of Occupational Health and Safety Science": [
+      "Occupational Health and Safety Science (24 units)"
+    ],
+    "Masters of Occupational Therapy Studies": [
+      "Occupational Therapy Studies"
+    ],
+    "Masters of Organisational Psychology": [
+      "Organisational Psychology"
+    ],
+    "Graduate Certificate of Peace and Conflict Studies": [
+      "Peace and Conflict Studies"
+    ],
+    "Masters of Peace and Conflict Studies": [
+      "Peace and Conflict Studies (32 units)"
+    ],
+    "Graduate Certificate of Pharmaceutical Industry Practice": [
+      "Pharmaceutical Industry Practice"
+    ],
+    "Masters of Pharmaceutical Industry Practice": [
+      "Pharmaceutical Industry Practice"
+    ],
+    "Graduate Certificate of Pharmacy Practice": [
+      "Pharmacy Practice"
+    ],
+    "Masters of Physiotherapy": [
+      "Musculoskeletal Physiotherapy",
+      "Sports Physiotherapy"
+    ],
+    "Masters of Physiotherapy Studies": [
+      "Physiotherapy Studies"
+    ],
+    "Professional Doctorate of Psychology": [
+      "Clinical Neuropsychology and Clinical Psychology",
+      "Clinical Psychology",
+      "Clinical Psychology and Clinical Geropsychology"
+    ],
+    "Masters of Psychology": [
+      "Counselling",
+      "Health",
+      "Sport and Exercise"
+    ],
+    "Graduate Diploma of Public Health": [
+      "Alcohol, Tobacco and Other Drugs",
+      "Global Health",
+      "Health Promotion and Disease Prevention",
+      "Indigenous Health",
+      "Nutrition",
+      "Standard"
+    ],
+    "Masters of Public Health": [
+      "Alcohol, Tobacco and Other Drugs",
+      "Global Health",
+      "Health Promotion and Disease Prevention",
+      "Indigenous Health",
+      "Nutrition",
+      "Standard"
+    ],
+    "Masters of Quantitative Biology": [
+      "Quantitative Biology (32 units)"
+    ],
+    "Masters of Quantum Technology": [
+      "Quantum Technology"
+    ],
+    "Graduate Certificate of Science": [
+      "Mathematics",
+      "Physics",
+      "Statistics"
+    ],
+    "Graduate Diploma of Science": [
+      "Mathematics",
+      "Physics",
+      "Statistics"
+    ],
+    "Masters of Science": [
+      "Mathematics",
+      "Physics",
+      "Statistics"
+    ],
+    "Masters of Social Work Studies": [
+      "Social Work Studies (32 units)"
+    ],
+    "Masters of Speech Pathology Studies": [
+      "Speech Pathology Studies"
+    ],
+    "Graduate Certificate of Sports Coaching": [
+      "Sports Coaching"
+    ],
+    "Masters of Sports Coaching": [
+      "Sports Coaching (32 units)"
+    ],
+    "Graduate Certificate of Sports Medicine": [
+      "Sports Medicine"
+    ],
+    "Masters of Sports Medicine": [
+      "Sports Medicine"
+    ],
+    "Graduate Certificate of Sustainable Energy": [
+      "Sustainable Energy"
+    ],
+    "Graduate Diploma of Sustainable Energy": [
+      "Sustainable Energy"
+    ],
+    "Masters of Sustainable Energy": [
+      "Sustainable Energy"
+    ],
+    "Masters of Sustainable Energy (Management)": [
+      "Sustainable Energy (Management)"
+    ],
+    "Masters of Teaching (Primary)": [
+      "Teaching (Primary)"
+    ],
+    "Masters of Teaching (Secondary)": [
+      "Teaching (Secondary)"
+    ],
+    "Graduate Certificate of Tourism, Hotel and Event Management": [
+      "Tourism, Hotel and Event Management"
+    ],
+    "Masters of Tourism, Hotel and Event Management": [
+      "Event Management",
+      "Hotel Management",
+      "Travel and Tourism Management"
+    ],
+    "Graduate Certificate of Urban Development and Design": [
+      "Urban Development and Design"
+    ],
+    "Masters of Urban Development and Design": [
+      "Economics and Strategy",
+      "Infrastructure and Resources",
+      "People and Policy"
+    ],
+    "Graduate Diploma of Urban and Regional Planning": [
+      "Urban and Regional Planning"
+    ],
+    "Masters of Urban and Regional Planning": [
+      "Urban and Regional Planning (32 units)"
+    ],
+    "Masters of Veterinary Science": [
+      "Veterinary Diagnostic Pathology"
+    ],
+    "Graduate Certificate of Writing, Editing and Publishing": [
+      "Writing, Editing and Publishing"
+    ],
+    "Masters of Writing, Editing and Publishing": [
+      "Writing, Editing and Publishing (24 units)"
+    ]
+  }
+}

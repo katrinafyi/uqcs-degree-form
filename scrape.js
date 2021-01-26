@@ -18,7 +18,7 @@
         const majors = program.majors;
 
         let el = a.parentNode.parentNode; // get tr containing this a
-        
+
         while (true) {
             if (!el) break; // reached end of this letter's table.
             const title = el.querySelector('.title').textContent.trim();
@@ -33,7 +33,7 @@
             el = el.nextElementSibling;
         }
     });
-    
+
     console.log(programs);
-    console.log(JSON.stringify(programs, undefined, 0));
+    console.log(JSON.stringify(programs, undefined, 2));
 })();
